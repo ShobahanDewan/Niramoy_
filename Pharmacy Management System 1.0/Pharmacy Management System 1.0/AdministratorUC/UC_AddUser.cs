@@ -30,6 +30,7 @@ namespace Pharmacy_Management_System_1._0.AdministratorUC
             String username = txtUserName.Text;
             String pass = txtPassword.Text;
 
+
             try
             {
                 query = "insert into users (userRole,name,dob,mobile,email,username,pass) values ('" + role + "','" + name + "','" + dob + "'," + mobile + ",'" + email + "','" + username + "','" + pass + "')";
