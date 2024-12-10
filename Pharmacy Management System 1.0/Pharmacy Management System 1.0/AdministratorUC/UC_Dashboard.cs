@@ -23,6 +23,7 @@ namespace Pharmacy_Management_System_1._0.AdministratorUC
             InitializeComponent();
         }
 
+
         private void uC_Dashboard_Load(object sender, EventArgs e)
         {
             query = "select count(userRole) from users where userRole  = 'Administrator'";
