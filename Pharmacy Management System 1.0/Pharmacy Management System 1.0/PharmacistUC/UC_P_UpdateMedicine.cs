@@ -22,6 +22,7 @@ namespace Pharmacy_Management_System_1._0.PharmacistUC
             InitializeComponent();
         }
 
+
         private void btnSearch_Click(object sender, EventArgs e)
         {
             if (txtMediID.Text != "") 
