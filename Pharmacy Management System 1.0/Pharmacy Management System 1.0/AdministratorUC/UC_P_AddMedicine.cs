@@ -16,7 +16,6 @@ namespace Pharmacy_Management_System_1._0.AdministratorUC
         function fn = new function();
         String query;
 
-
         public UC_P_AddMedicine()
         {
             InitializeComponent();
