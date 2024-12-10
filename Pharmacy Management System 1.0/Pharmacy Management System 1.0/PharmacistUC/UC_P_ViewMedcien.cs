@@ -20,6 +20,7 @@ namespace Pharmacy_Management_System_1._0.PharmacistUC
             InitializeComponent();
         }
 
+
         private void label17_Click(object sender, EventArgs e)
         {
 
