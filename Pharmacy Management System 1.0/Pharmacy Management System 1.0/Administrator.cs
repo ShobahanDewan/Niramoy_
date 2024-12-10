@@ -23,6 +23,7 @@ namespace Pharmacy_Management_System_1._0
         public string ID
         {
             get { return user.ToString(); }
+            
         }
 
         public Administrator(String username)
