@@ -1,0 +1,45 @@
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\bin\Debug\Pharmacy Management System 1.0.exe.config
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\bin\Debug\Pharmacy Management System 1.0.exe
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\bin\Debug\Pharmacy Management System 1.0.pdb
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy Management System 1.0.csproj.AssemblyReference.cache
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.Form1.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.Properties.Resources.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy Management System 1.0.csproj.GenerateResource.cache
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy Management System 1.0.csproj.CoreCompileInputs.cache
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy Management System 1.0.csproj.CopyComplete
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy Management System 1.0.exe
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy Management System 1.0.pdb
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\bin\Debug\Guna.UI.dll
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.Administrator.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.AdministratorUC.uC_Dashboard.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.AdministratorUC.UC_AddUser.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.AdministratorUC.UC_ViewUser.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.AdministratorUC.UC_Profile.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.Pharmacist.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.AdministratorUC.UC_P_Dashboard.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.AdministratorUC.UC_P_AddMedicine.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.PharmacistUC.UC_P_ViewMedcien.resources
+C:\Users\UseR\source\repos\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.PharmacistUC.UC_P_UpdateMedicine.resources
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\bin\Debug\Pharmacy Management System 1.0.exe.config
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\bin\Debug\Pharmacy Management System 1.0.exe
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\bin\Debug\Pharmacy Management System 1.0.pdb
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy Management System 1.0.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy Management System 1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.Administrator.resources
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.AdministratorUC.UC_AddUser.resources
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.AdministratorUC.uC_Dashboard.resources
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.AdministratorUC.UC_Profile.resources
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.AdministratorUC.UC_P_AddMedicine.resources
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.AdministratorUC.UC_P_Dashboard.resources
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.AdministratorUC.UC_ViewUser.resources
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.Form1.resources
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.Pharmacist.resources
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.PharmacistUC.UC_P_UpdateMedicine.resources
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.PharmacistUC.UC_P_ViewMedcien.resources
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy Management System 1.0.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy Management System 1.0.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy Management System 1.0.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy Management System 1.0.exe
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy Management System 1.0.pdb
+C:\Users\ASUS\OneDrive\Desktop\Pharmacy Management System\Pharmacy Management System 1.0\Pharmacy Management System 1.0\obj\Debug\Pharmacy_Management_System_1._0.PharmacistUC.UC_P_MedicineValidityCheck.resources
