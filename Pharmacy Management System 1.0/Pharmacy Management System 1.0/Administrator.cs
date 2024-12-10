@@ -1,4 +1,5 @@
-﻿using Pharmacy_Management_System_1._0.AdministratorUC;
+
+using Pharmacy_Management_System_1._0.AdministratorUC;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
